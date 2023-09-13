@@ -1,1 +1,1 @@
-# Projects
+# Potato Diseases Classification
